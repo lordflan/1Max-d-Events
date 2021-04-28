@@ -1,4 +1,3 @@
 # 1 Max d'Events
 
-Site web 'DJ - animation' réalisé avec un template HTML5 UP!<br>
-https://html5up.net/
+Site web 'DJ - animation' réalisé avec un template html5up.net (Helios)
